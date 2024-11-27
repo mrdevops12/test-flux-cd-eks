@@ -1,3 +1,7 @@
+Assume you have alredy AWS EKS Clsuter , in that cluster if you want install FluxCD 
+
+Login into your kubectl server/system and follwo below steps 
+
 Install and Bootstrap Flux CD:
 
      curl -s https://fluxcd.io/install.sh | sudo bash
